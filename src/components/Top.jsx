@@ -2,7 +2,7 @@ import React from 'react'
 
 const Top = () => {
   return (
-    <div className='container'>
+    <div className='container py-10'>
 
     </div>
   )
